@@ -9,9 +9,31 @@
     bottom:0;
 }
 
-.home.header {
+.home .header {
     height:80px;
     width:100vw;
     background-color: black;
 
+}
+.introduction {
+    width: 100%;
+    height:500px;
+    background-image: url(https://www.nasa.gov/sites/default/files/thumbnails/image/blackmarble2016-1500px_0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    
+
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 3rem;
+    
+}
+.sub-title {
+    font-size: 24px;
+    
+    font-weight: 600;
 }
