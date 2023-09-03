@@ -1,0 +1,17 @@
+.home {
+    
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+}
+
+.home.header {
+    height:80px;
+    width:100vw;
+    background-color: black;
+
+}
